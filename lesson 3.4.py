@@ -8,8 +8,7 @@ else:
     else:
 
         def my_func(x, y):
-            ans = x ** y
-            return ans
+            return x ** y
 
 
         print(my_func(x, y))
